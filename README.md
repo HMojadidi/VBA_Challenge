@@ -33,4 +33,4 @@ Improved timings with the refactored code:
 
 Based on my experience with this project, I have observed that there are both advantages and disadvantages of refactoring code in general. The main advantage of refactoring would be that it gives the data analyst a template to work with. The disadvantage can be seen in new challanges, such as having to recreate a button as it stopped working.
 
-Personally, I found working with an original script more rewarding as it gave a 'clean slate' for creativity. Refactoring seemed to constrict the process and at times, frustrating when trying to maneauver the code or sticking to refactoring insturctions, such as variable names I would have otherwise not chosen (tickerVolume vs. totalVolume).
+Personally, I found working with an original script more rewarding as it gave a 'clean slate' for creativity. Refactoring seemed to constrict the process and at times, frustrating when trying to maneauver the code or sticking to refactoring instructions, such as variable names I would have otherwise not chosen (tickerVolume vs. totalVolume).
