@@ -25,7 +25,7 @@ Improved timings with the refactored code:
 
 - The workbook is now capable of analyzing larger sets of data at any given year more efficiently.
 
-- Based on the results of the timer for the previous green_stock workbook and the current VBA_Challenge workbook, we can see that the refactored code is much more time efficient in it's analysis.
+- Based on the results of the timer for the previous green_stock workbook and the current VBA_Challenge workbook, we can see that the refactored code is much more time efficient in its analysis.
 
 
 
